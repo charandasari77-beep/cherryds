@@ -18,7 +18,7 @@ try {
   localStorage.removeItem('jarvis_memory');
 }
 
-const chat=document.getElementById('chat');
+const chat=document.getElementById('chat'); 
 const conversationStage=document.getElementById('conversation-stage');
 const input=document.getElementById('msg');
 const micBtn=document.getElementById('mic-btn');
